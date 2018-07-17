@@ -1,0 +1,9 @@
+# 180717 TIL JOURNAL
+
+- go default pkgs
+  - net/http
+  - bufio
+  - io
+  - websocket
+- To get done
+  - Typescript go over
